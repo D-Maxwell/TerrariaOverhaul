@@ -86,6 +86,8 @@ public sealed class MainMenuOverlaySystem : ModSystem
 
 	private static void DrawOverlay(SpriteBatch sb)
 	{
+ 		return; // Hard-disabled, will be tied to a config setting eventually
+   		
 		if (!Main.gameMenu) {
 			return;
 		}
