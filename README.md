@@ -3,6 +3,15 @@
 </p>
 
 
+<details align="center">
+	<summary><h1>No Bloat</h1></summary>
+	<p>
+	This fork of the Terraria Overhaul mod aims to cleanse it from unnecessary overlays, links, and other things thrown at your face that are not faithful to the game and may break the immersion for some.
+	Currently, all this does is remove the main menu links.
+	</p>
+</details>
+
+
 # 🔥 What's this?
 Terraria Overhaul is a *huuuge* game mechanics changing mod for Terraria.
 You can read more about it at [this forum page](https://forums.terraria.org/index.php?threads/.60369/) (Might be outdated.)
